@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tanmishra.github.io/sitemap.xml
